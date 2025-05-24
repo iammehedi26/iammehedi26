@@ -14,6 +14,6 @@
 
 <div style="cursor:pointer" https://github.com/iammehedi26/demo>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammehedi26&repo=demo&theme=dark)
+[![Readmeb Card](https://github-readme-stats.vercel.app/api?username=iammehedi26&repo=demo&theme=dark)
 
 </div>
