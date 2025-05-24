@@ -47,3 +47,5 @@ Exploring different programming languages
 Learning by building and experimenting
 
 Thanks for visiting my profile! 😊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammehedi26&hide_progress=true&theme=dark)
