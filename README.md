@@ -14,6 +14,36 @@
 
 <div style="cursor:pointer" https://github.com/iammehedi26/demo>
 
-[![Readmeb Card](https://github-readme-stats.vercel.app/api?username=iammehedi26&repo=demo&theme=dark)
+[![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammehedi26&repo=demo&theme=dark)
 
 </div>
+
+## About
+
+👋 Hi there, I'm Mehedi
+
+I'm a passionate developer who loves building and exploring the world of technology. I'm currently focused on learning and improving my skills in web and software development.
+
+🧠 Tech Stack:
+
+🌐 HTML, CSS, JavaScript
+
+💻 C++, Python, PHP
+
+🔄 Currently learning Python for better version control
+
+🚀 Goals:
+
+Contribute to open source projects
+
+Build a strong portfolio
+
+Continuously learn and grow as a developer
+
+🎯 Currently:
+
+Exploring different programming languages
+
+Learning by building and experimenting
+
+Thanks for visiting my profile! 😊
